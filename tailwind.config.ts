@@ -13,7 +13,6 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
 
-        "whitelist-taskbg": "url('~@/assets/whitelist/taskBg.png')",
         "finish-mintbg1": "url('~@/assets/home/mint.png')",
         "finish-mintbg2": "url('~@/assets/home/publicMint.png')",
       },
