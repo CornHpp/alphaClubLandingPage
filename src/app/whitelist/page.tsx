@@ -23,7 +23,8 @@ const whiteList = () => {
           width={499}
           height={309}
         ></Image>
-        <div className=" relative ml-[-100px] bg-whitelist-taskbg bg-no-repeat w-[827px] h-[574px] bg-cover flex flex-col items-center justify-center">
+        {/* bg-whitelist-taskbg */}
+        <div className=" relative ml-[-100px]  bg-no-repeat w-[827px] h-[574px] bg-cover flex flex-col items-center justify-center">
           <Image
             src={ButtonImg}
             className=" absolute top-[50px] left-[180px] z-10"

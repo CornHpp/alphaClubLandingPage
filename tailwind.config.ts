@@ -6,6 +6,8 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  // "whitelist-taskbg": "url('~@/assets/whitelist/taskBg.png')",
+
   theme: {
     extend: {
       backgroundImage: {
